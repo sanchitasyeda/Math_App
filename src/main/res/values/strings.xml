@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_startLesson">Start Lesson</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="lsnVariableX">Lesson: Variable X</string>
+    <string name="txtLessonVariableX">Insert Lesson shenanigans here</string>
+    <string name="lsnX">You have probably heard the phrase \"find x\" before. But what exactly does that mean? \n
+
+    The variable \"x\" represents a blank number. It acts as a placeholder for a number that you need.
+        For example, let\'s say you need 6 apples but you only have 3. How many apples do you need to have 6 apples in total? \n
+        This problem can be easily solved by using the variable \"x\". The equation for this problem would look like:
+        \n \n
+        <font textcolor ='#E17A47'>6 - x = 3</font>
+        \n Where x represents the number of apples that you need to get 6 apples. Don't worry about being able to create that kind of equation just yet - the only focus is finding x. \n
+
+        <b>Isolate X:</b> \n
+        To begin, you want to have x on one side of the equation. Recall in your last lesson, when you move numbers from one side of the equal sign to the other, its negative/positive value changes.
+        This rule applies for x too (since x acts as a placeholder for a number, x follows the same rules).
+        \n
+        Since x is negative in 6 - x (the subtraction sign before x indicates it will be a negative value once x is isolated), we want to move x to the other side of the equal sign to make it positive.
+        \n
+        6 = 3 + x
+        \n
+        Now you want to move 3 to the other side of the equal sign so it is grouped with 6 and x is completely isolated, leaving you with: \n
+        6 - 3 = x
+        \n
+        Now you can solve for x! All you have to do is calculate the expression. 6-3 is 3 - so x = 3! \n
+        Voila! Now you know how to solve for x.
+
+
+    </string>
+</resources>
